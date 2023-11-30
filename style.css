@@ -1,0 +1,27 @@
+table{
+    border: 1px solid black;
+    border-collapse:collapse ;
+}
+td{
+    border: 1px solid black ;
+}
+.wrapper{
+    background-color: brown;
+    width: 150px;
+    height: 20px;
+}
+.table{
+    background-color: chocolate;
+}
+tr:hover{
+    background-color: blue;
+    color: bisque;
+}
+input:hover{
+    background-color: burlywood;
+    
+}
+.come:hover{
+    background-color: blue;
+    color: bisque;
+}
